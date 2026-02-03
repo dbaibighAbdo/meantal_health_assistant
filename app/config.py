@@ -1,7 +1,3 @@
-"""
-Configuration file for Mental Health Chatbot
-Modify these settings to customize the chatbot behavior
-"""
 
 # ============================================================================
 # MODEL CONFIGURATION
