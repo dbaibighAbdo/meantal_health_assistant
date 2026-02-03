@@ -62,11 +62,5 @@ pytest -q
 	- `streamlit_app.py` — Streamlit UI to interact with the assistant.
 	- `test_chatbot.py` — unit tests for the chatbot.
 
-## Notes & Next Steps
-
-- If you want, I can:
-	- Generate a `requirements.txt` from the environment or `pyproject.toml`.
-	- Run the test suite and report results.
-	- Add usage screenshots or an example conversation to the README.
 
 
