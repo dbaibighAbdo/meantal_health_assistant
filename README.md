@@ -69,4 +69,4 @@ pytest -q
 	- Run the test suite and report results.
 	- Add usage screenshots or an example conversation to the README.
 
-If you prefer specific wording, branding, or an expanded developer guide, tell me how you'd like it structured.
+
